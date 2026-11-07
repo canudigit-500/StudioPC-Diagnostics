@@ -1,0 +1,28 @@
+=====================================
+STUDIO PC ENGINEERING REVIEW
+=====================================
+
+Review Date: 11/07/2026 10:15:28
+
+Instructions:
+Review the diagnostic report and document only:
+
+1. Errors
+2. Warnings
+3. Failed Services
+4. Failed Devices
+5. Reliability Issues
+6. Storage Issues
+7. Driver Issues
+8. Recommended Actions
+
+Engineer Notes:
+
+
+
+
+
+
+=====================================
+END OF REVIEW
+=====================================
