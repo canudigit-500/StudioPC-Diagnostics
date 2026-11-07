@@ -1,0 +1,47 @@
+=====================================
+STUDIO PC FINDINGS - SYSTEM INTEGRITY
+=====================================
+
+Review Date: 11/07/2026 10:19:15
+
+CRITICAL
+--------
+SFC detected Windows integrity violations.
+
+HIGH
+----
+DISM reports the component store is repairable.
+
+MEDIUM
+------
+Repeated OpenAI Codex package update failures:
+0x80073D02
+
+MEDIUM
+------
+Unexpected shutdown detected:
+Event ID 6008
+
+LOW
+---
+Snagit 9 crashes detected.
+
+LOW
+---
+VSS shutdown-time events detected.
+
+LOW
+---
+DCOM timeout event detected.
+
+RECOMMENDED ACTION
+------------------
+1. Repair component store
+2. Repair system files
+3. Reboot
+4. Re-run integrity validation
+5. Reassess remaining application issues
+
+=====================================
+END OF FINDINGS
+=====================================
